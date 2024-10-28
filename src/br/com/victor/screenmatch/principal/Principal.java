@@ -1,3 +1,5 @@
+package br.com.victor.screenmatch.principal;
+
 import br.com.victor.screenmatch.calculo.CalculadoraTempo;
 import br.com.victor.screenmatch.modelos.Filme;
 import br.com.victor.screenmatch.modelos.Serie;

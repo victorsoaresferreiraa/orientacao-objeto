@@ -1,9 +1,9 @@
 package br.com.victor.screenmatch.excessao;
 
-public class ErrodeConversaodeAnoException extends RuntimeException {
+public class ErroDeConversaoDeAnoException extends RuntimeException {
     private String mensagem;
 
-    public ErrodeConversaodeAnoException(String mensagem) {
+    public ErroDeConversaoDeAnoException(String mensagem) {
         this.mensagem = mensagem;
     }
 

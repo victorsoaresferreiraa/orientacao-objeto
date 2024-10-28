@@ -28,11 +28,11 @@ public class Principal {
 
         Filme Superman = new Filme();
         Superman.setNome("Superman");
-        Superman
+        //Superman
 
         CalculadoraTempo calculadora = new CalculadoraTempo();
-        calculadora.inclui(meuFilme);
-        System.out.println(calculadora.getTempoTotal());
+        //calculadora.inclui(meuFilme);
+        //System.out.println(calculadora.getTempoTotal());
 
 
 
